@@ -1,7 +1,7 @@
 <!-- Banner principal -->
 ![Banner](https://github.com/Delforojas/Delforojas/blob/main/assets/Captura%20de%20pantalla%202025-10-06%20a%20las%206.44.30.png)
 
-# ¡Hola! Soy **Delfo Rojas**
+# Hi ! I´m  **Delfo Rojas**
 🔸 Un día me picó la curiosidad por la programación… y desde entonces no he soltado el teclado.
 
 ---
