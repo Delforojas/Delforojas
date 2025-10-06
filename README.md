@@ -15,7 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+     width="55" height="55"
+     style="background:#0B1120;padding:10px;border-radius:12px;margin:6px;"
+     alt="Django"/>
+
 </p>
 
 ### 🎨 Frontend & Diseño
