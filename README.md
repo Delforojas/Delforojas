@@ -2,9 +2,8 @@
 ![Banner](https://github.com/Delforojas/Delforojas/blob/main/assets/Captura%20de%20pantalla%202025-10-06%20a%20las%206.44.30.png)
 
 # 👋 ¡Hola! Soy **Delfo Rojas**
+Un dia me pico la curiosidad de estudiar programación y aquí me tienes.
 
-Desarrollador **Full-Stack** en formación, apasionado por la tecnología y el aprendizaje constante.  
-Trabajo día a día para mejorar mi código, construir proyectos reales y dominar cada capa de una aplicación moderna.
 
 ---
 
@@ -40,9 +39,10 @@ Incluye panel de administración, despliegue en **PythonAnywhere** y diseño ada
 
 ### 🚀 *About me**
 
-💡 Me considero una persona constante, empática y con muchas ganas de seguir aprendiendo.  
+💡 Me considero una persona constante que cree en el trabajo fielmente.
+Si al trabajo le sumas ganas de aprender , evolucionar y crecer seguramente en ese sitio este yo.
 Cada proyecto que creo es una oportunidad para crecer como desarrollador y como profesional.  
-Busco siempre aplicar lo que aprendo en entornos reales, documentar mi proceso y construir software con propósito.
+Con muchas ganas de aplicar lo que aprendo en entornos reales.
 
 ---
 
