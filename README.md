@@ -1,9 +1,8 @@
 <!-- Banner principal -->
 ![Banner](https://github.com/Delforojas/Delforojas/blob/main/assets/Captura%20de%20pantalla%202025-10-06%20a%20las%206.44.30.png)
 
-# 👋 ¡Hola! Soy **Delfo Rojas**
-Un dia me pico la curiosidad de estudiar programación y aquí me tienes.
-
+# ¡Hola! Soy **Delfo Rojas**
+🔸 Un día me picó la curiosidad por la programación… y desde entonces no he soltado el teclado.
 
 ---
 
@@ -39,11 +38,10 @@ Incluye panel de administración, despliegue en **PythonAnywhere** y diseño ada
 
 ### 🚀 *About me**
 
-💡 Me considero una persona constante que cree en el trabajo fielmente.
-Si al trabajo le sumas ganas de aprender , evolucionar y crecer seguramente en ese sitio este yo.
-Cada proyecto que creo es una oportunidad para crecer como desarrollador y como profesional.  
-Con muchas ganas de aplicar lo que aprendo en entornos reales.
-
+💡 Me considero una persona constante que cree fielmente en el valor del trabajo.
+Si al esfuerzo le sumas ganas de aprender, evolucionar y crecer, seguramente ahí esté yo.
+Cada proyecto que creo es una oportunidad para seguir desarrollándome, tanto a nivel técnico como profesional.
+Con muchas ganas de aplicar lo que he aprendido —y lo que sigo aprendiendo— en entornos reales.
 ---
 
 ### 📊 **Estadísticas de GitHub**
