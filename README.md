@@ -56,6 +56,6 @@ Busco siempre aplicar lo que aprendo en entornos reales, documentar mi proceso y
 ### 📫 **Conectemos**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DelfoRojas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delforojas)  
-📧 **delforojas.dev@gmail.com**
+📧 **delfinrojasespina@gmail.com**
 
 ---
