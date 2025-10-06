@@ -86,7 +86,7 @@ Con muchas ganas de aplicar lo que he aprendido —y lo que sigo aprendiendo— 
 
 ### 📫 **Conectemos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DelfoRojas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delforojas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DelfinRojas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delfinrojas)  
 📧 **delfinrojasespina@gmail.com**
 
 ---
