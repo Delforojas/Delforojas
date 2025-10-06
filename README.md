@@ -84,9 +84,14 @@ Con muchas ganas de aplicar lo que he aprendido —y lo que sigo aprendiendo— 
 
 ---
 
-### 📫 **Conectemos**
+### 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DelfinRojas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delfinrojas)  
-📧 **delfinrojasespina@gmail.com**
+🌐 **Portafolio:**  
+[![Portafolio](https://img.shields.io/badge/-delforojas.pythonanywhere.com-blue?style=for-the-badge)](https://delforojas.pythonanywhere.com)
 
----
+💼 **LinkedIn:**  
+[![LinkedIn](https://img.shields.io/badge/-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delfinrojas/)
+
+📧 **Email:**  
+[![Email](https://img.shields.io/badge/-Contacto-red?style=for-the-badge)](mailto:delfinrojasespina@gmail.com)
+
