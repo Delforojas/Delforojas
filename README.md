@@ -48,9 +48,7 @@
 
 ### 🧩 **Proyectos Destacados**
 
-### 🧩 Proyectos Destacados
-
-🔹 **[Avengers Training](https://github.com/Delforojas/delfoservas)**  
+🔹 **[Avengers Training]((https://github.com/Delforojas/avengers-training))**  
 Aplicación **full stack** desarrollada con **Angular, Symfony, PostgreSQL y Docker**.  
 Incluye autenticación JWT, acceso con Google, recuperación segura de contraseña, control de acceso por roles y despliegue en producción.
 
@@ -80,7 +78,7 @@ Con muchas ganas de aplicar lo que he aprendido —y lo que sigo aprendiendo— 
 ### 📫 Cómo contactarme
 
 🌐 **Portafolio:**  
-[![Portafolio](https://img.shields.io/badge/-delforojas.pythonanywhere.com-blue?style=for-the-badge)](https://delforojas.pythonanywhere.com)
+[![Portafolio](https://img.shields.io/badge/-delforojas.pythonanywhere.com-blue?style=for-the-badge)](https://delforojas.es)
 
 💼 **LinkedIn:**  
 [![LinkedIn](https://img.shields.io/badge/-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/delfinrojas/)
