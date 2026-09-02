@@ -59,6 +59,7 @@ Incluye gestión dinámica de contenido mediante **Django Admin**, diseño respo
 🔹 **[Sannu Fisioterapia++](https://github.com/CodeArts-Solutions/Sannu-Fisioterapia)**
 Plataforma de gestión de fisioterapia **full stack** desarrollada durante mis prácticas en **CodeArts Solutions** con **Angular, Symfony y PostgreSQL**.  
 Incluye autenticación JWT, roles, reservas, bonos y lógica de negocio apoyada en triggers y vistas SQL.
+
 ---
 
 ### 🚀 **About me**
