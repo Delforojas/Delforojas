@@ -48,11 +48,11 @@
 
 ### 🧩 **Proyectos Destacados**
 
-🔹 **[Avengers Training]((https://github.com/Delforojas/avengers-training))**  
+🔹 **[Avengers Training](https://github.com/Delforojas/avengers-training)**  
 Aplicación **full stack** desarrollada con **Angular, Symfony, PostgreSQL y Docker**.  
 Incluye autenticación JWT, acceso con Google, recuperación segura de contraseña, control de acceso por roles y despliegue en producción.
 
-🔹 **[delforojas.es](https://github.com/Delforojas/delfofolio)**  
+🔹 **[delforojas.es](https://github.com/Delforojas/delforojas.es)**  
 Portfolio personal desarrollado con **Python y Django**, donde centralizo mis proyectos, tecnologías, formación y trayectoria profesional.  
 Incluye gestión dinámica de contenido mediante **Django Admin**, diseño responsive y despliegue en **PythonAnywhere** bajo dominio propio.
 
