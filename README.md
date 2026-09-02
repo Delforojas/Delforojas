@@ -48,19 +48,19 @@
 
 ### 🧩 **Proyectos Destacados**
 
-🔹 **[Sannu-Fisioterapia](https://github.com/CodeArts-Solutions/Sannu-Fisioterapia)**  
-Plataforma de gestión de fisioterapia full-stack con **Angular + Symfony + PostgreSQL**, desarrollada durante mis prácticas en **CodeArts Solutions**.  
-Incluye autenticación JWT, roles, reservas, bonos y lógica de negocio automatizada mediante triggers y vistas SQL.
+### 🧩 Proyectos Destacados
 
-🔹 **[DelfoServas](https://github.com/Delforojas/delfoservas)**  
-Proyecto personal **full-stack** enfocado en la mejora continua.  
-Aplicación modular con **JWT Auth**, **Docker Compose**, y un enfoque en buenas prácticas y arquitectura limpia.
+🔹 **[Avengers Training](https://github.com/Delforojas/delfoservas)**  
+Aplicación **full stack** desarrollada con **Angular, Symfony, PostgreSQL y Docker**.  
+Incluye autenticación JWT, acceso con Google, recuperación segura de contraseña, control de acceso por roles y despliegue en producción.
 
-🔹  **[Delfofolio ](https://github.com/Delforojas/delfofolio)**  
-Portfolio personal desarrollado con **Django y Python**, mostrando mis proyectos, habilidades y trayectoria como desarrollador.
-Incluye panel de administración, despliegue en **PythonAnywhere** y diseño adaptable con enfoque profesional.
+🔹 **[delforojas.es](https://github.com/Delforojas/delfofolio)**  
+Portfolio personal desarrollado con **Python y Django**, donde centralizo mis proyectos, tecnologías, formación y trayectoria profesional.  
+Incluye gestión dinámica de contenido mediante **Django Admin**, diseño responsive y despliegue en **PythonAnywhere** bajo dominio propio.
 
-
+🔹 **[Sannu Fisioterapia](https://github.com/CodeArts-Solutions/Sannu-Fisioterapia)**  
+Plataforma de gestión de fisioterapia **full stack** desarrollada durante mis prácticas en **CodeArts Solutions** con **Angular, Symfony y PostgreSQL**.  
+Incluye autenticación JWT, roles, reservas, bonos y lógica de negocio apoyada en triggers y vistas SQL.
 ---
 
 ### 🚀 **About me**
