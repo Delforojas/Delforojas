@@ -56,7 +56,7 @@ Incluye autenticación JWT, acceso con Google, recuperación segura de contrase�
 Portfolio personal desarrollado con **Python y Django**, donde centralizo mis proyectos, tecnologías, formación y trayectoria profesional.  
 Incluye gestión dinámica de contenido mediante **Django Admin**, diseño responsive y despliegue en **PythonAnywhere** bajo dominio propio.
 
-🔹 **[Sannu Fisioterapia](https://github.com/CodeArts-Solutions/Sannu-Fisioterapia)**  
+🔹 **[Sannu Fisioterapia++](https://github.com/CodeArts-Solutions/Sannu-Fisioterapia)**
 Plataforma de gestión de fisioterapia **full stack** desarrollada durante mis prácticas en **CodeArts Solutions** con **Angular, Symfony y PostgreSQL**.  
 Incluye autenticación JWT, roles, reservas, bonos y lógica de negocio apoyada en triggers y vistas SQL.
 ---
