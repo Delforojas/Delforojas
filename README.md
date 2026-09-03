@@ -69,10 +69,6 @@ Si al esfuerzo le sumas ganas de aprender, evolucionar y crecer, seguramente ah�
 Cada proyecto que creo es una oportunidad para seguir desarrollándome, tanto a nivel técnico como profesional.
 Con muchas ganas de aplicar lo que he aprendido —y lo que sigo aprendiendo— en entornos reales.
 
-### 📊 **Estadísticas de GitHub**
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Delforojas&show_icons=true&theme=tokyonight&hide_border=true)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Delforojas&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
